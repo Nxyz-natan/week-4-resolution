@@ -4,10 +4,10 @@ A PCB kit built around a NE555P timer with 6 buttons, each playing a
 different note through a buzzer when pressed. Designed to be assembled 
 by anyone with basic soldering skills.
 
-![PCB Render]<img width="425" height="509" alt="Screenshot 2026-05-29 at 9 47 26 PM" src="https://github.com/user-attachments/assets/a95db3ef-872a-45cb-ad5b-3dd90783a373" />
+PCB Render:<img width="425" height="509" alt="Screenshot 2026-05-29 at 9 47 26 PM" src="https://github.com/user-attachments/assets/a95db3ef-872a-45cb-ad5b-3dd90783a373" />
 
 
-[KiCanvas Link] https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FNxyz-natan%2Fweek-4-resolution%2Ftree%2Fmain%2Fweek%25204
+KiCanvas Link: https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FNxyz-natan%2Fweek-4-resolution%2Ftree%2Fmain%2Fweek%25204
 
 ## How it works
 
@@ -19,15 +19,15 @@ producing a different note through the passive buzzer.
 
 ## Schematic
 
-![Schematic] <img width="459" height="268" alt="Screenshot 2026-05-29 at 9 47 51 PM" src="https://github.com/user-attachments/assets/d8ccdd8f-dd0e-499b-9131-0bdca344dfe4" />
+Schematic: <img width="459" height="268" alt="Screenshot 2026-05-29 at 9 47 51 PM" src="https://github.com/user-attachments/assets/d8ccdd8f-dd0e-499b-9131-0bdca344dfe4" />
 
 
 ## PCB
 
-![PCB]<img width="321" height="555" alt="Screenshot 2026-05-29 at 9 48 03 PM" src="https://github.com/user-attachments/assets/cf530fac-e423-459a-a888-96efe871d3d4" />
+PCB:<img width="321" height="555" alt="Screenshot 2026-05-29 at 9 48 03 PM" src="https://github.com/user-attachments/assets/cf530fac-e423-459a-a888-96efe871d3d4" />
 
 
----
+
 
 ## BOM
 
